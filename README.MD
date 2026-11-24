@@ -1,4 +1,4 @@
-# Liquid Logo
+# Liquid Logo :)
 
 A free, open-source tool for creating animated logos using a liquid metal aesthetic. Transform static logos and images into flowing animations.
 
